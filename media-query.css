@@ -1,0 +1,28 @@
+@media only screen and (min-width: 1440px) {
+
+
+
+    .project_container {
+        flex-direction: row;
+        justify-content: center;
+        gap: 0;
+    }
+
+    .results_info {
+        border-radius: 30px;
+        height: 44.8rem;
+        width: 32.7rem;
+        padding-top: 3rem;
+        justify-content: space-around;
+    }
+
+    .ending_description {
+        width: 23rem;
+    }
+
+    .summary {
+        box-shadow: 14px 9px 14px #00000014;;
+        border-radius: 0 0 30px 0;
+    }
+
+}
